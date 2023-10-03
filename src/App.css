@@ -98,7 +98,7 @@ body {
   top: 0px;
   right: -15px;
   -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
-          clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
 .header-container .book .left-side h1 {
   font-family: "Caveat", cursive;
@@ -364,4 +364,4 @@ body {
   align-items: center;
   justify-content: center;
   font-family: "Times New Roman", Times, serif;
-}/*# sourceMappingURL=app.css.map */
+} /*# sourceMappingURL=app.css.map */

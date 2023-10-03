@@ -1,5 +1,5 @@
 import { Component } from "react";
-import "./app.css";
+import "./App.css";
 import kayla from "./img/1.png";
 
 class Middle extends Component {
